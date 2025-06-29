@@ -1,6 +1,6 @@
-package teme;
+package temaOOP;
 
-public class Strudel extends Patiserie{
+public class Strudel extends Produs {
 
     public String umplutura;
     public boolean continZahar;

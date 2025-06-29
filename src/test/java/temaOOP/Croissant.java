@@ -1,8 +1,6 @@
-package teme;
+package temaOOP;
 
-import javax.sound.midi.Soundbank;
-
-public class Croissant extends Patiserie{
+public class Croissant extends Produs {
 
     public boolean areUmplutura;
     public String insertie;

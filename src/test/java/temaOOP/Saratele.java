@@ -1,6 +1,6 @@
-package teme;
+package temaOOP;
 
-public class Saratele extends Patiserie{
+public class Saratele extends Produs {
 
     public String seminte;
     public String forma;

@@ -1,9 +1,7 @@
-package teme;
+package temaOOP;
 
 
-import javax.sound.midi.Soundbank;
-
-public class Placinta extends Patiserie {
+public class Placinta extends Produs {
 
     public String umplutura;
     public boolean esteDePost;
