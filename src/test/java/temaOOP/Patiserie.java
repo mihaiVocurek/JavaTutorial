@@ -18,22 +18,20 @@ public class Patiserie {
 
     public void prezentarePatiserie(){
 
-    for(int index=0; index<croissants.size();index++){
-        croissants.get(index).prezentareCroissant();
-    }
+        for(int index=0; index<croissants.size();index++){
+            croissants.get(index).prezentareCroissant();
+        }
 
-    for(int index=0; index<placinte.size();index++){
-        placinte.get(index).prezentarePlacinta();
-    }
+        for(int index=0; index<placinte.size();index++){
+            placinte.get(index).prezentarePlacinta();
+        }
 
-    for(int index=0; index<saratele.size();index++){
-        saratele.get(index).prezentareSaratele();
-    }
+        for(int index=0; index<saratele.size();index++){
+            saratele.get(index).prezentareSaratele();
+        }
 
-    for(int index=0; index<strudele.size();index++){
-        strudele.get(index).prezentareStrudel();
+        for(int index=0; index<strudele.size();index++){
+            strudele.get(index).prezentareStrudel();
+        }
     }
-
-    }
-
 }
